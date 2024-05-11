@@ -1,0 +1,57 @@
+* h2 {
+  color: blue;
+}
+
+
+.header {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.career-objective, h2, p {
+  margin-left: 200px;
+  text-align: justify;
+}
+
+.personal-info, h2, p {
+  margin-left: 200px;
+  text-align: justify;
+}
+
+.education, h2, p {
+  margin-left: 200px;
+  text-align: justify;
+}
+
+.awards, h2, p {
+  margin-left: 200px;
+  text-align: justify;
+}
+
+.events, h2, p {
+  margin-left: 200px;
+  text-align: justify;
+}
+
+.skills, h2, ul {
+  margin-left: 200px;
+}
+
+.contact, h2, ul {
+  margin-left: 200px;
+}
+
+footer {
+  margin-left: 200px;
+}
+
+
+
+
+
+
+
+
